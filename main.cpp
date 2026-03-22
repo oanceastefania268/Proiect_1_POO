@@ -1,7 +1,7 @@
 /**
 Programul implementează un sistem de gestiune a situației școlare pentru studenți.
 
-Date de intrare:
+Clase:
 
     -DISCIPLINA: reține numele (*char) și numărul de credite (int);
     -EXAMEN: face legătura între o disciplină și nota obținută(float);
@@ -12,6 +12,7 @@ Operații posibile:
     -Calculul punctelor credit obținute de student;
     -Calculul mediei ponderate a studentului;
     -Identificarea materiilor unde studentul are restanțe.
+
 **/
 #include <iostream>
 #include "Disciplina.hpp"
